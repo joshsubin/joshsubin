@@ -248,28 +248,6 @@ A career development platform designed to help professionals understand their sk
 
 ---
 
-# 📦 Logistics & Freight Technology
-
-### 11. Freight Logistics Management Demo
-
-**Category:** Logistics | Freight Forwarding | Transportation Management
-
-An independent portfolio demonstration project exploring common freight-forwarding software workflows.
-
-**Planned Features**
-- Shipment and job management.
-- Customer and carrier management.
-- Freight quotation management.
-- Booking references.
-- Container and shipment tracking.
-- House and Master Bill of Lading records.
-- Shipment milestone history.
-- Sample invoicing and job costing.
-
-**Planned Technology Stack:** Node.js, Next.js, TypeScript, MongoDB or PostgreSQL.
-
-*This is an independent learning and portfolio project, not a representation of previous professional freight-forwarding system experience.*
-
 ---
 
 # 🛠️ Additional Engineering Portfolio Projects
